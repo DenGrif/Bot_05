@@ -11,7 +11,7 @@ import sqlite3
 
 from crud_functions import initiate_db, get_all_products, is_included, add_user
 
-API_TOKEN = 'Ключ'
+API_TOKEN = '8008288734:AAF9GenuyNrCuauqNPt32HMr_RCYr31VbbI'
 
 storage = MemoryStorage()
 bot = Bot(token=API_TOKEN)
